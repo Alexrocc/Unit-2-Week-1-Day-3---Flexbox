@@ -71,7 +71,7 @@ h1 {
 
 .card {
   width: 48%;
-  border-radius: 25%;
+  border-radius: 45px;
   overflow: hidden;
   object-fit: cover;
   background-color: #fbf7e3;
@@ -86,7 +86,7 @@ h1 {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 1em;
+  padding: 1.2em;
 }
 .card-content > div {
   text-align: center;

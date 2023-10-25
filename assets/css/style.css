@@ -52,7 +52,7 @@ nav img {
 /* MAIN */
 
 main {
-  padding: 1rem;
+  padding: 0 1rem;
   line-height: 1.4rem;
 }
 
@@ -70,7 +70,7 @@ h1 {
 }
 
 .card {
-  width: 260px;
+  width: 48%;
   border-radius: 25%;
   overflow: hidden;
   object-fit: cover;
